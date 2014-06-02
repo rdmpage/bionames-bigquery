@@ -45,6 +45,8 @@ BigQuery needs a schema, in this case:
 id:string,cluster_id:string,nameComplete:string,taxonAuthor:string,journal:string,volume:string,spage:string,epage:string,year:string,issn:string,isbn:string,doi:string,pmid:string,biostor:string,jstor:string,cinii:string,handle:string,pdf:string,url:string,oclc:string
 ```
 
+Once imported there are 1,549,152 rows in the database.
+
 ## Query
 
 
